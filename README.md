@@ -2,6 +2,25 @@
 
 Final Project 
 
+-----------------------------------------------------------------------
+## Background
+
+In this challenging period, with the presence of the coronavirus pandemic creating a new reality, 
+users need to adhere to the guidelines of the Ministry of Health in order to preserve themselves and the environment. 
+As a result, a situation has arisen where worshippers are unable to pray in a congregation as they did before the coronavirus era, especially during holidays.
+
+The Ministry of Health has subsequently issued guidelines stating that prayers can only be conducted together up to a certain number of participants. 
+This has led to an imbalance in synagogues concerning the number of worshippers. 
+To address this issue, we have decided to develop a system – an application for managing prayers and quotas in synagogues.
+
+
+## Project Objective and Problem Presentation
+
+The objective of the application is to enable worshippers to find nearby synagogues and register for the relevant synagogue. Additionally, 
+it allows the synagogue administrator to manage the quota of worshippers in accordance with the guidelines from the Ministry of Health. 
+The application provides additional services to both administrators and worshippers to enhance their interaction.
+
+-----------------------------------------------------------------------
 ## Getting Started
 
 This project is a starting point for a Flutter application.
